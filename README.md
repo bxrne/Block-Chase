@@ -1,0 +1,1 @@
+A example canvas game that uses CraftyJS
