@@ -63,8 +63,8 @@ function enemyTP() {
 enemy.x = Math.floor(Math.random()*465);
 enemy.y = Math.floor(Math.random()*295);
 
-hero.x = canvas.width / 2 - 25;
-hero.y = canvas.height / 2 -25;
+hero.x = 480 / 2 - 25;
+hero.y = 320 / 2 -25;
 }
 //immediate teleport when game has begun
 enemyTP();
